@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* progress dots used across the flow */
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 9999px;
+  background: theme("colors.plum");
+  opacity: 0.15;
+  transition: all 0.25s ease;
+}
+.dot.active {
+  opacity: 1;
+  width: 20px;
+  background: theme("colors.blushDeep");
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
