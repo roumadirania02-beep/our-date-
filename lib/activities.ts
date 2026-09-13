@@ -79,7 +79,7 @@ export const activities: Activity[] = [
     title: "Shopping",
     line: "Let's wander around and see what we find.",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTRq6GCREwUpM2iOz1bZLY-kBYWd_wo76mFIJcSTXexw&s=10",
+      "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hvcHBpbmd8ZW58MHx8MHx8fDA%3D",
   },
   {
     id: "sunset",
