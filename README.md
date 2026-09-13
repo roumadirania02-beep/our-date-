@@ -1,6 +1,6 @@
 # Our Date 💌
 
-Site mobile pour proposer un choix de date à quelqu'un — construit avec
+Site mobile pour proposer un choix de date à quelqu'un — construit   avec
 Next.js, Tailwind CSS et Supabase.
 
 ## Ce que tu as reçu
