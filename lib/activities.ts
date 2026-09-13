@@ -1,5 +1,5 @@
 export type Activity = {
-  id: string;
+  id: string; 
   emoji: string;
   title: string;
   line: string;
