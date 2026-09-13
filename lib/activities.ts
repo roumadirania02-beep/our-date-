@@ -15,7 +15,7 @@ export const activities: Activity[] = [
     title: "Karting",
     line: "Let's see who's actually the better driver 👀",
     image:
-      "https://images.unsplash.com/photo-1547640917-26b78434b64e?w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLV8UMarWJuIBcZj2ZxJuNwq5kfQ2iBowHTuPre8cRJA&s=10",
   },
   {
     id: "cinema",
@@ -39,7 +39,7 @@ export const activities: Activity[] = [
     title: "Quad",
     line: "A little adventure?",
     image:
-      "https://images.unsplash.com/photo-1533130061792-64b345e4a833?w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlU0Gq5JeKZ_mo8oojSV0Ao5ZNp_a3rBLx1CIBxcrfg&s=10",
   },
   {
     id: "laser",
@@ -55,7 +55,7 @@ export const activities: Activity[] = [
     title: "Bowling",
     line: "Winner chooses the next thing 😌",
     image:
-      "https://images.unsplash.com/photo-1538511578304-31a0e5c2a557?w=800&q=80",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/be/bf/c0/tamaris-bowling.jpg?w=700&h=-1&s=1",
   },
   {
     id: "escape",
@@ -79,7 +79,7 @@ export const activities: Activity[] = [
     title: "Shopping",
     line: "Let's wander around and see what we find.",
     image:
-      "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&q=80",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTRq6GCREwUpM2iOz1bZLY-kBYWd_wo76mFIJcSTXexw&s=10",
   },
   {
     id: "sunset",
